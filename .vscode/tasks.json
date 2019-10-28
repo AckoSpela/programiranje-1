@@ -26,7 +26,7 @@
                 "isDefault": true
             },
             "windows": {
-                "command": "ocaml -init \\\"${file}\\\""
+                "command": "ocaml -init \"${file}\""
                 },
             "linux": {
                 "command": "ocaml -init \"${file}\""
