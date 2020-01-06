@@ -9,7 +9,7 @@
                 "isDefault": true
             },
             "windows": {
-                "command": "python -i \\\"${file}\\\""
+                "command": "python -i \"${file}\""
                 },
             "linux": {
                 "command": "python -i \"${file}\""
